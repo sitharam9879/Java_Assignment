@@ -18,5 +18,7 @@ ExpenseTracker/
 This file contains the `main()` method and launches the application via console.
 
 ### 📝 Next Step:
-Upload the **screenshot of the output** and rename it to `output.png` 
+Upload the **screenshot of the output** 
+![Screenshot 2025-05-22 072026](https://github.com/user-attachments/assets/e60d5b8d-cc22-43a5-a92e-114d3757f112)
+
 
